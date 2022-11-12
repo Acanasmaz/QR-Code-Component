@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Acanasmaz/QR-Code-Component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Acanasmaz/QR-Code-Component
+
 
 ## My process
 
@@ -45,7 +45,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I can say that this challenge has given me a lot. The use of flexbox was not explained to me in the css trainings I received, but after doing some research, I learned to use flexbox for this project in a very short time. I am open to all feedback.
 
-To see how you can add code snippets, see below:
 
 
 ```css
